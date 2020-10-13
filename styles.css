@@ -5,11 +5,12 @@ body {
 
 h1 {
   text-align: center
+    color: #001e94
 }
 
 header {
   background:#f0fbff;
-  color:#ffffff;
+  color:#001e94;
   padding-top:30px;
   padding-bottom:20px;  
   min-height:30px;
