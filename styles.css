@@ -5,9 +5,7 @@ body {
 
 h1 {
   text-align: center
-  color: #ffffff;
-  padding: 10px;
-  margin: 30px; 
+  color: #ffffff; 
 }
 
 
@@ -30,7 +28,7 @@ header li {
 
 
 Header nav{
-  float: right;
+  float: left;
   margin-top: 10px;
 }
 
