@@ -11,8 +11,8 @@ h1 {
 header {
   background:#f0fbff;
   color:#001e94;
-  padding-top:30px;
-  padding-bottom:20px;  
+  padding-top:10px;
+  padding-bottom:10px;  
   min-height:100px;
   }
 
@@ -25,13 +25,12 @@ header ul {
 header li {
   float: left;
   display: inline;
-  padding: 0 15px 0 15px;
 }
 
 
 Header nav{
   float: left;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 
