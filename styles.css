@@ -9,11 +9,12 @@ h1 {
 }
 
 header {
+  text-align: center
   background:#f0fbff;
   color:#001e94;
   padding-top:10px;
   padding-bottom:10px;  
-  min-height:150px;
+  min-height:130px;
   }
 
 
