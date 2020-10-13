@@ -5,15 +5,17 @@ body {
 
 h1 {
   text-align: center
-  color: #f0fbff;
-  background-color: #ffffff
+  color: #ffffff;
+  background: #f0fbff
 }
-
 
 header {
-  background-color: #f0fbff;
-}
-
+  background:#f0fbff;
+  color:#ffffff;
+  padding-top:30px;
+  padding-bottom:20px;  
+  min-height:70px;
+  }
 
 
 header ul {
