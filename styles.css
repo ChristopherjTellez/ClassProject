@@ -4,6 +4,8 @@ body {
 h1 {
   text-align: center
   color: white;
+  padding: 10px;
+  margin: 30px; 
 }
 header {
   background-color: #08016b;
