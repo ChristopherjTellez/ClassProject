@@ -2,5 +2,8 @@ body {
   background-color: #9da8fa;
 }
 h1 {
-  color: red;
+  text-align: center
+  color: white;
 }
+header {
+  background-color: #08016b;
