@@ -1,7 +1,9 @@
-  body {
+    body {
       text-align: Center;
   background-color: #dee5ff;
-    font-family: calibri;
+  font-family: calibri;
+  
+ 
 }
 
 
@@ -20,6 +22,7 @@ header {
   padding-bottom:50px;  
   min-height:110px;
   font-family: calibri;
+  
   Font-size:150% ;
   }
 
@@ -40,4 +43,8 @@ Header nav {
     
   float: left;
   margin-top: 20px;
+}
+
+p {
+    padding:0 50px 0 50px;
 }
