@@ -47,5 +47,14 @@ Header nav {
 }
 
 p {
-    padding:0 50px 0 50px;
+    padding:0 100px 0 100px;
+}
+footer {
+   border-top: 10px solid ;
+  background:#cad4fa;
+  color:#001e94;
+  padding-top:30px;
+  padding-bottom:200px;  
+  min-height:40px;
+  font-family: calibri; 
 }
