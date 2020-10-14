@@ -1,4 +1,4 @@
-    body {
+  body {
       text-align: Center;
   background-color: #dee5ff;
   font-family: calibri;
@@ -15,13 +15,14 @@ h1 {
 }
 
 header {
-  border: 20px solid ;
+  border-bottom: 10px solid ;
   background:#cad4fa;
   color:#001e94;
   padding-top:30px;
   padding-bottom:50px;  
   min-height:110px;
   font-family: calibri;
+  
   
   Font-size:150% ;
   }
