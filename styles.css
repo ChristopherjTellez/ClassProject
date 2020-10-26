@@ -27,7 +27,7 @@ header {
   
   
   
-  Font-size:150% ;
+  Font-size:150%vw;
   }
 
 
@@ -41,6 +41,7 @@ header li {
   float: left;
   display: inline;
   padding: 0 15px 0 15px;
+  Font-size: 100%vw;
   
 }
 
